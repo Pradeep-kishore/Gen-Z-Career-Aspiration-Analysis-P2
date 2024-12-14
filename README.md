@@ -36,5 +36,18 @@ Analysis of the results to gain actionable insights for understanding Gen Z's pr
 ### Mission Aspiration
 ![Screenshot (104)](https://github.com/user-attachments/assets/ad8ad2c7-4bd7-4161-abe0-955e798675f1)
 
+## Project Insights:
+
+- The top 5 influencers on career aspirations include factors like company reputation and work-life balance.
+- The most preferred company types are tech companies, followed by startups.
+- A significant percentage of Gen Z shows interest in pursuing higher education abroad.
+- The most common work setup preference is hybrid or remote work.
+- The minimum expected salary for the first three years varies, with significant disparities across industries.
+
+## Final Conclusion:
+This project provided valuable insights into the career aspirations of Gen Z. By analyzing the data, we learned that work-life balance, career growth opportunities, and flexibility in work setup are key factors for this generation. The findings of this analysis can be useful for employers to tailor their offerings and for educational institutions to guide students towards relevant career paths.
+
+
+
 
 
