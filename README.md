@@ -17,11 +17,12 @@ The objective of this project is to analyze the career aspirations of Gen Z. Bas
 
 ## Process:
 
-Data cleaning (removing duplicates, handling missing data)
-SQL querying for extracting and filtering relevant data
-Data visualization in Excel to generate insights
-Creation of four dashboards to represent different aspects of career aspirations
-Analysis of the results to gain actionable insights for understanding Gen Z's preference
+- Data cleaning (removing duplicates, handling missing data)
+- SQL querying for extracting and filtering relevant data
+- Data visualization in Excel to generate insights
+- Creation of four dashboards to represent different aspects of career aspirations
+- Analysis of the results to gain actionable insights for understanding Gen Z's preference
+<a href="https://github.com/Pradeep-kishore/Gen-Z-Career-Aspiration-Analysis-P2/blob/main/Project%203%20zip%20Excel.zip">View Dashboard</a>
 
 ## Dashboard Image
 ### Dashboard
