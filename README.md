@@ -24,13 +24,16 @@ Creation of four dashboards to represent different aspects of career aspirations
 Analysis of the results to gain actionable insights for understanding Gen Z's preference
 
 ## Dashboard Image
-Dashboard
+### Dashboard
 ![Screenshot (100)](https://github.com/user-attachments/assets/b6178626-36cf-48c6-879b-c584dd7a9f74)
-Manager Aspiration
+
+### Manager Aspiration
 ![Screenshot (102)](https://github.com/user-attachments/assets/d53a8156-82c4-4a54-ab9b-5dffadf2bc45)
-Learning Aspiration
+
+### Learning Aspiration
 ![Screenshot (103)](https://github.com/user-attachments/assets/da044324-04f0-4b2b-a654-64ff10386ffd)
-Mission Aspiration
+
+### Mission Aspiration
 ![Screenshot (104)](https://github.com/user-attachments/assets/ad8ad2c7-4bd7-4161-abe0-955e798675f1)
 
 
