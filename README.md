@@ -1,2 +1,3 @@
-# Gen-Z-Career-Aspiration-Analysis-P2
-This is my internship project where I analyzed Gen Z's career aspirations using SQL for data cleaning and Excel for dashboard creation. It provides insights into work preferences, company types, salary expectations, and more, helping businesses understand Gen Z’s professional goals and improve their strategies.
+# Gen Z Career Aspiration Analysis
+Objective:
+The objective of this project is to analyze the career aspirations of Gen Z. Based on this theme, I have created four dashboards, each focusing on different aspects of their career goals, preferences, and expectations.
